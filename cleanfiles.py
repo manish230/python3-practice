@@ -4,7 +4,7 @@ from pathlib import Path
 
 # Define file categories and associated extensions
 FILE_CATEGORIES = {
-    "Images": {".jpg", ".manish", ".png", ".gif", ".bmp", ".svg", ".webp"},
+    "Images": {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp"},
     "Documents": {".pdf", ".docx", ".doc", ".txt", ".xlsx", ".pptx", ".odt"},
     "Archives": {".zip", ".rar", ".7z", ".tar", ".gz"},
 }
